@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kesari46
-- 👀 I’m interested in All Tech Stuffs
-- 🌱 I’m currently learning JS, Python and Git
-- 📫 How to reach me known7127@gmail.com
+- 👀 I’m interested in CP + DSA
+- 🌱 I’m currently learning Python and Git
 - 😄 Pronouns: he/him
 
 <!---
