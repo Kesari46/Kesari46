@@ -16,35 +16,14 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📊 GitHub Stats:
-Here are my GitHub stats!  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kesari46&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kesari46&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesari46&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Kesari46&show_icons=true&hide_title=true&theme=dark&count_private=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kesari46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## 🏆 GitHub Streak:
-Check out my current contribution streak!
-
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kesari46&theme=dark)
-
----
-
-## 💬 Most Used Languages:
-Here’s a look at the languages I use the most!
-
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesari46&layout=compact&theme=dark)
-
----
-
-## 🏆 GitHub Trophies:
-Here are the trophies I’ve earned so far on GitHub!
-
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=Kesari46&margin-w=10&margin-h=10)
-
----
-
-Feel free to connect with me and explore my projects. Looking forward to collaborating and learning together!
 <!---
 Kesari46/Kesari46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
