@@ -18,7 +18,6 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Stats:
 Here are my GitHub stats!  
-(These stats will automatically update.)
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Kesari46&show_icons=true&hide_title=true&theme=dark&count_private=true)
 
@@ -41,7 +40,7 @@ Here’s a look at the languages I use the most!
 ## 🏆 GitHub Trophies:
 Here are the trophies I’ve earned so far on GitHub!
 
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=Kesari46&theme=dark&margin-w=10&margin-h=10)
+![Your Trophies](https://github-profile-trophy.vercel.app/?username=Kesari46&margin-w=10&margin-h=10)
 
 ---
 
