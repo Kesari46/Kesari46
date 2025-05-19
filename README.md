@@ -26,7 +26,7 @@ Here are some of the technologies I work with:
 
 
 ## 🐍 GitHub Snake:
-![GitHub Snake](https://raw.githubusercontent.com/Kesari46/Kesari46/output/dist/snake.svg)
+<img src="https://raw.githubusercontent.com/Kesari46/Kesari46/output/snake.svg" alt="Snake animation" />
 <!---
 Kesari46/Kesari46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
