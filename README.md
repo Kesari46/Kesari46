@@ -24,6 +24,9 @@ Here are some of the technologies I work with:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kesari46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 🐍 GitHub Snake:
+![GitHub Snake](https://raw.githubusercontent.com/Kesari46/Kesari46/output/dist/snake.svg)
 <!---
 Kesari46/Kesari46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
